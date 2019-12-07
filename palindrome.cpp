@@ -18,20 +18,4 @@ int main()
      else
          cout << " The number is not a palindrome."<<endl;
     return 0;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
